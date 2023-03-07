@@ -26,6 +26,8 @@ the plan is when we load the site we fetch the required data from Blizzards api 
 8. Dungeon
 9. Item
 
+![alt text](https://github.com/FluffaTheDuck/Sem4TypescriptProject/blob/main/Components.png "Components")
+
 ### Endpoints
 We will use blizzards Dungeon Journal api to fetch all the dungeons and items.
 Then we will sort the dungeons so its only the ones that we need
